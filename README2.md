@@ -16,11 +16,10 @@
 
 ### What is the Role of a DevOps Engineer?
 
-- CI/CD pipelines
 - Automation
-- Infrastructure as Code
 - Testing
-- Monitoring
+- Monitor
+- Collaboration and communication
 
 ### What is Cloud Computing and AWS
 
@@ -35,15 +34,13 @@ AWS
 
 ### How Does Cloud Computing Fit Into DevOps?
 
-- Easy to adopt
+- Centralisation
 - Better stability and uptime
 - Easier collaboration
-- Easier automation
 
 ### What are the Benefits of Cloud Computing?
 
 - Cost-effective
-- User friendly
 - Prevents data loss
 - Advanced security
 
